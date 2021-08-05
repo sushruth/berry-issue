@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": ".",
+    "resolveJsonModule": true,
+    "paths": {
+      "lib": ["lib/index.ts"]
+    }
+  }
+}
